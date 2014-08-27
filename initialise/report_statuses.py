@@ -8,7 +8,7 @@ report_statuses = [{
         'phrasing': 'This item has been assigned for verification.',
 }, {
         'name': 'dismissed',
-        'phrasing': 'This item has been dismissed and irrelevant.',
+        'phrasing': 'This item has been dismissed as irrelevant.',
 }, {
         'name': 'false',
         'phrasing': 'This item has been found false.',
